@@ -10,18 +10,16 @@
 - 1 t dry mustard
 - 1/4 C dill
 - 1.5 t Worcestershire sauce
-- 1/2 C parmesan
 - 1 t celery salt
 - 1 t pepper
 
 ##Basil-Garlic Aioli
-- 2-3 large cloves garlic
-- 4 T basil (or a handful)
+- 2 large cloves garlic
+- 4 T basil (or a handful; i.e., 6 small leaves)
 - 1/4 C olive oil
 - 1 T lemon juice
 - 2 egg yolks
 - 1/2 t salt
-- 1/2 C vegetable oil  ????
 
 ##Instructions
 
