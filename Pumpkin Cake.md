@@ -1,15 +1,20 @@
 ##Ingredients
--	1 1/4 cups white sugar
--	1/2 cups vegetable oil
--	1/2 cups butter
--	1 teaspoon vanilla extract
--	2 cups canned pumpkin
--	4 eggs
+
 -	2 cups all-purpose flour
 -	3 teaspoons baking powder
 -	2 teaspoons baking soda
 -	1/4 teaspoon salt
 -	2 teaspoons ground cinnamon
+
+-	1 1/4 cups white sugar
+-	1/2 cups vegetable oil
+-	1/2 cups butter
+
+-	1 teaspoon vanilla extract
+-	2 cups canned pumpkin
+
+-	4 eggs
+
 -	1 cup chopped walnuts (optional)
 
 ###Directions
