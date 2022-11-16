@@ -5,8 +5,8 @@
 - 2 egg whites
 - 6 green onions or 1 medium onion
 - 1/2 C bread crumbs
-- 1 T lemon
-- 2 T mayo (use base below)
+- 1 T lemon juice
+- 2 T mayo (use Basil-Garlic Aioli below)
 - 1 t dry mustard
 - 1/4 C dill
 - 1.5 t Worcestershire sauce
