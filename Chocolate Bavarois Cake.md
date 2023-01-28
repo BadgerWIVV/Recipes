@@ -11,18 +11,18 @@ https://scientificallysweet.com/the-best-moist-chocolate-cake/
 https://www.allrecipes.com/recipe/281930/dark-chocolate-sheet-cake-with-dark-chocolate-frosting/
 "
 
-- [ ] 2 C AP Flour
-- [ ] 2 C sugar
-- [ ] 3/4 C cocoa powder
-- [ ] 2 t baking powder
-- [ ] 1 1/2 t baking soda
-- [ ] 1 t salt
-- [ ] 1 t espresso powder
-- [ ] 1 C milk
-- [ ] 1/2 C coconut oil
+- [ ] 2 C AP Flour (305g)
+- [ ] 2 C sugar (430g)
+- [ ] 3/4 C cocoa powder (75g)
+- [ ] 2 t baking powder (8g)
+- [ ] 1 1/2 t baking soda (8g)
+- [ ] 1 t salt (6g)
+- [ ] 1 t espresso powder (0g)
+- [ ] 1 C milk (8.55oz)
+- [ ] 1/2 C coconut oil (100g)
 - [ ] 2 large eggs
 - [ ] 2 t vanilla extract
-- [ ] 1 C boiling coffee
+- [ ] 1 C boiling coffee (8oz)
 
 
 1. Preheat oven to 350°F. Lightly grease and flour two 8-inch round cake pans and line the base with parchment paper.
@@ -39,7 +39,7 @@ https://www.allrecipes.com/recipe/281930/dark-chocolate-sheet-cake-with-dark-cho
 https://foodal.com/recipes/cakes/chocolate-cake-with-whipped-cream-filling/
 "
 
-- [ ] 1/3 C cold water
+- [ ] 1/3 C cold water (70g)
 - [ ] 2 t powdered gelatin
 - [ ] 3 egg yolks
 - [ ] 1/3 C sugar
