@@ -7,12 +7,12 @@
 
 - 1 lb ground beef
 - 4 italian sausages
-- 1-2 C mushroom
+- 1-2 C mushroom (8oz)
 
 - 1/2 cup white wine
 
 - 28oz (2 small cans) canned peeled tomatoes
-- 28oz water
+- 14oz water
 
 - rosemary
 - thyme
@@ -31,7 +31,7 @@
 - small grating - fresh grated nutmeg
 - pepper
 
-- 1C ricotta
+- 15oz ricotta
 - 1/2C parmesan reggiano
 - parsely
 
@@ -45,16 +45,18 @@
 
 ###Bolognese
 - Brown beef, pork, and mushrooms; set aside when cooked
-- Add mirepoix (carrots, onions, celery) to same pan; swea for 5 min
+- Add mirepoix (carrots, onions, celery) to same pan; sweat for 5 min
 - Add wine to deglaze.
+- Add tomatoes and water
+- Re-add reserved meat
 - Add herbs (bouquet garni)
-- Cook for 2-4 hours on low
-- Salt and pepper to taste 
+- Cook for 2-4 hours on low; stirring occasionally
+- Salt and pepper to taste ( and MSG )
 
 ###Noodles
 - Boil noodles per packaging instructions
 - Drain, rinse, and place in cold water until final assembly
-  
+
 ###Bechamel
 - Melt butter
 - Mix in flour
@@ -75,6 +77,11 @@
 - bolognese
 - parmesan
 - zucchini
+
+- noodle
+- bechamel
+- bolognese
+- parmesan
 
 - noodle
 - bechamel
