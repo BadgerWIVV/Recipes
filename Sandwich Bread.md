@@ -5,7 +5,7 @@
 ## Ingredients
 
 * 2 C warm water
-* 1/4 C honey
+* 1/4 C honey (85g)
 * 1 T yeast
 
 * 2 t salt
