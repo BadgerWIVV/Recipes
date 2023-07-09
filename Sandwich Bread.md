@@ -11,7 +11,7 @@
 * 2 t salt
 * 2 T melted butter
   
-* 5 C flour = 4.5C + 0.5C
+* 5 C flour = 4.5C + 0.5C (540g + 60g + ~120g extra b/c still sticking)
 
 ## Instructions
 
