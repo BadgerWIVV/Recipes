@@ -4,6 +4,10 @@
 https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/
 "
 
+* Yield: ?
+* Double if planning on freezing
+
+
 ## Ingredients
 - [ ] 1.5 cups (188g) all-purpose flour (spooned & leveled)
 - [ ] 1 teaspoon baking powder
