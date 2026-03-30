@@ -9,18 +9,18 @@ https://sallysbakingaddiction.com/peanut-butter-oatmeal-chocolate-chip-cookies/
 
 
 ## Ingredients
-- [ ] 1.5 cups (188g) all-purpose flour (spooned & leveled)
+- [ ] 1.5 cups (188g {376g}) all-purpose flour (spooned & leveled)
 - [ ] 1 teaspoon baking powder
 - [ ] 1 teaspoon baking soda
 - [ ] 1 teaspoon salt
-- [ ] 1 cup (16 Tbsp; 226g) unsalted butter, softened to room temperature
-- [ ] 1 cup (200g) granulated sugar
-- [ ] 0.5 cup (100g) packed light or dark brown sugar
+- [ ] 1 cup (16 Tbsp; 226g {452g}) unsalted butter, softened to room temperature
+- [ ] 1 cup (200g {400g}) granulated sugar
+- [ ] 0.5 cup (100g {200g}) packed light or dark brown sugar
 - [ ] 2 large eggs, at room temperature
-- [ ] 1 cup (240g) creamy peanut butter
+- [ ] 1 cup (240g {480g}) creamy peanut butter
 - [ ] 2 teaspoons pure vanilla extract
-- [ ] 2 cups (170g) old-fashioned whole rolled oats
-- [ ] 2.5 cups (450g) semi-sweet chocolate chips, plus more for topping if desired
+- [ ] 2 cups (170g {340g}) old-fashioned whole rolled oats
+- [ ] 2.5 cups (450g {900g}) semi-sweet chocolate chips, plus more for topping if desired
 
 ##Instructions
 
