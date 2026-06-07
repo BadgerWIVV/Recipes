@@ -22,3 +22,6 @@ https://sallysbakingaddiction.com/homemade-pizza-crust-recipe/#tasty-recipes-664
 * Rise the dough until doubled, roughly an hour.
 * Split the dough into two
 * Freeze or use
+
+##Notes
+* 2026-06-07, I started with 450g AP KA flour and had to add significantly more; so probably ended closer to 500g.  After 10+minutes on mixer and 5 minutes hand kneading, the dough still didn't pass window pane test and was still quite wet.  I could barely get it to form a solid mass without sticking to the table when kneading.
