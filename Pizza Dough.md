@@ -8,7 +8,7 @@ https://sallysbakingaddiction.com/homemade-pizza-crust-recipe/#tasty-recipes-664
 
 ## Ingredients
 - [ ] 320 ml warm water ~110F
-- [ ] 13 sugar
+- [ ] 13g sugar
 - [ ] 7g yeast
 - [ ] 1 teaspoon salt
 - [ ] 2T (30ml) olive oil
